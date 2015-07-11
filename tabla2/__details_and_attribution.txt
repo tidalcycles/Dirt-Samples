@@ -1,0 +1,698 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "A#001.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23645
+	Date of upload: 2006-10-12 13:58:58
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#002.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23646
+	Date of upload: 2006-10-12 13:58:52
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#003.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23647
+	Date of upload: 2006-10-12 13:58:54
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#004.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23648
+	Date of upload: 2006-10-12 13:58:48
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#005.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23649
+	Date of upload: 2006-10-12 13:58:46
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#006.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23650
+	Date of upload: 2006-10-12 13:58:44
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#007.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23651
+	Date of upload: 2006-10-12 13:58:41
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#008.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23652
+	Date of upload: 2006-10-12 13:58:39
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#009.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23653
+	Date of upload: 2006-10-12 13:58:37
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#010.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23654
+	Date of upload: 2006-10-12 13:58:35
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#011.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23655
+	Date of upload: 2006-10-12 13:58:34
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#012.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23656
+	Date of upload: 2006-10-12 13:58:32
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#013.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23657
+	Date of upload: 2006-10-12 13:58:30
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#014.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23658
+	Date of upload: 2006-10-12 13:58:26
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#015.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23659
+	Date of upload: 2006-10-12 13:58:24
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#016.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23660
+	Date of upload: 2006-10-12 13:58:20
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#017.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23661
+	Date of upload: 2006-10-12 13:58:18
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#018.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23662
+	Date of upload: 2006-10-12 13:58:16
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#019.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23663
+	Date of upload: 2006-10-12 13:58:12
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#020.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23664
+	Date of upload: 2006-10-12 13:58:10
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#021.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23665
+	Date of upload: 2006-10-12 13:58:08
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#022.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23666
+	Date of upload: 2006-10-12 13:58:04
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#023.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23667
+	Date of upload: 2006-10-12 13:58:02
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#024.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23668
+	Date of upload: 2006-10-12 13:58:00
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#025.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23669
+	Date of upload: 2006-10-12 13:57:59
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	
+======================================================================
+
+File:
+	Name: "A#026.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23670
+	Date of upload: 2006-10-12 13:57:52
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#027.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23671
+	Date of upload: 2006-10-12 13:57:50
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "A#028.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23672
+	Date of upload: 2006-10-12 13:57:42
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	a tabla 
+======================================================================
+
+File:
+	Name: "bahia001.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23673
+	Date of upload: 2006-10-12 13:56:18
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia002.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23674
+	Date of upload: 2006-10-12 13:56:16
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia003.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23675
+	Date of upload: 2006-10-12 13:56:14
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia004.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23676
+	Date of upload: 2006-10-12 13:56:12
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia005.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23677
+	Date of upload: 2006-10-12 13:56:10
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia006.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23678
+	Date of upload: 2006-10-12 13:56:08
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia007.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23679
+	Date of upload: 2006-10-12 13:56:07
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia008.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23680
+	Date of upload: 2006-10-12 13:56:01
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia009.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23681
+	Date of upload: 2006-10-12 13:55:58
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia010.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23682
+	Date of upload: 2006-10-12 13:55:59
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia011.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23683
+	Date of upload: 2006-10-12 13:55:56
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia012.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23684
+	Date of upload: 2006-10-12 13:55:55
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia013.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23685
+	Date of upload: 2006-10-12 13:55:53
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia014.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23686
+	Date of upload: 2006-10-12 13:55:51
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia015.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23687
+	Date of upload: 2006-10-12 13:55:50
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia016.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23688
+	Date of upload: 2006-10-12 13:55:48
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia017.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23689
+	Date of upload: 2006-10-12 13:55:46
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
+File:
+	Name: "bahia018.aif"
+	Url: http://freesound.iua.upf.edu/samplesViewSingle.php?id=23690
+	Date of upload: 2006-10-12 13:55:44
+	
+Designer / Creator / Uploader:
+	Name: "loofa"
+	Url: http://freesound.iua.upf.edu/usersViewSingle.php?id=149377
+	
+Description:
+
+Tags:
+	baya tabla 
+======================================================================
+
